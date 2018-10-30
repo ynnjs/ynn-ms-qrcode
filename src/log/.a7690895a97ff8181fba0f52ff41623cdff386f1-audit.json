@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/NextSeason/workspace/projects/ynn/ms-qrcode/src/log/.a7690895a97ff8181fba0f52ff41623cdff386f1-audit.json",
+    "files": [
+        {
+            "date": 1540895575517,
+            "name": "/Users/NextSeason/workspace/projects/ynn/ms-qrcode/src/log/2018-10-30.log",
+            "hash": "9aaebc6f5986644c97e2bcf7172d2a54"
+        }
+    ]
+}
