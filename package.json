@@ -28,11 +28,10 @@
     "homepage": "https://github.com/ynnjs/ynn-ms-qrcode#readme",
     "dependencies": {
         "qrcode": "^1.3.0",
-        "ynn": "0.0.9"
+        "ynn": "0.0.12"
     },
     "devDependencies": {
         "@lvchengbin/sleep": "0.0.2",
-        "jasmine": "^3.3.0",
         "nodemon": "^1.18.5",
         "supertest": "^3.3.0"
     }
